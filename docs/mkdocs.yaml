@@ -26,8 +26,8 @@ markdown_extensions:
 
 theme:
   name: material
-  logo: /assets/nebuly_logo.png
-  favicon: /assets/favicon.png
+  logo: ./assets/nebuly_logo.png
+  favicon: ./assets/favicon.png
   palette:
     - media: '(prefers-color-scheme: light)'
       scheme: default
